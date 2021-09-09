@@ -22,4 +22,6 @@
 
 ## :white_check_mark: Implemented in C as Cpython
 
+&nbsp;
+
 :rewind: [Back to Basics Menu](https://github.com/kumar1987an/Python_Sept2021_Tutorials/tree/root/Basics)
