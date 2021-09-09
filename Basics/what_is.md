@@ -6,7 +6,7 @@
 
 &nbsp;
 
-## :white_check_mark: is an Interpreter based language
+## :white_check_mark: Interpreter based language
 
 ## :white_check_mark: Human understandable syntax
 
