@@ -8,7 +8,7 @@
 
 ## :o: Interactive for learning
 
-## :o: atease syntax, understandable for beginners
+## :o: Atease syntax, understandable for beginners
 
 ## :o: PEP (Python Enhancement Proposals)
 
