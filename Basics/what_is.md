@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# What is Python?
+:snake: # What is Python?
 
 &nbsp;
 
