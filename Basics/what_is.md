@@ -10,9 +10,9 @@
 
 ## :white_check_mark: Human understandable syntax
 
-## :white_check_mark: Object Oriented Programming language
+## :white_check_mark: Object Oriented Programming
 
-## :white_check_mark: Functional programming
+## :white_check_mark: Functional paradigm
 
 ## :white_check_mark: Guido Van Rossum
 
