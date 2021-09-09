@@ -6,18 +6,18 @@
 
 &nbsp;
 
-## :white_check_mark: Interactive for learning
+## :o: Interactive for learning
 
-## :white_check_mark: atease syntax, understandable for beginners
+## :o: atease syntax, understandable for beginners
 
-## :white_check_mark: PEP (Python Enhancement Proposals)
+## :o: PEP (Python Enhancement Proposals)
 
-## :white_check_mark: Glue language
+## :o: Glue language
 
-## :white_check_mark: Scipting language
+## :o: Scipting language
 
-## :white_check_mark: Trackable tracebacks
+## :o: Trackable tracebacks
 
-## :white_check_mark: Huge Development Community
+## :o: Huge Development Community
 
-## :white_check_mark: Strong footprints on Sci Computing and DataScience
+## :o: Strong footprints on Sci Computing and DataScience
