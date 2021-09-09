@@ -6,4 +6,4 @@
 
 &nbsp;
 
-![](img\HowPythonWorks.png)
+![HowPythonWorks](img/HowPythonWorks.png)
