@@ -21,3 +21,5 @@
 ## :white_check_mark: Based on Lisp, Haskel and ABC language
 
 ## :white_check_mark: Implemented in C as Cpython
+
+:rewind: [Basics Menu](https://github.com/kumar1987an/Python_Sept2021_Tutorials/tree/root/Basics)
