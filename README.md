@@ -13,3 +13,5 @@
 :fast_forward: [Why is Python ?](/Basics/why_is.md)
 
 :fast_forward: [How is Python ?](/Basics/how_is.md)
+
+:fast_forward: [Where to download Python ?](/Basics/where_to.md)
