@@ -10,8 +10,6 @@
 
 > ### ***Introduction***
 
-&nbsp;
-
 #### 1. [What is Python ?](/Basics/1_Introduction/1_what_is.md)
 
 #### 2. [Why Python ?](/Basics/1_Introduction/2_why_is.md)
