@@ -10,24 +10,26 @@
 
 &nbsp;
 
-Once Downloaded from [https://www.python.org/downloads/](https://www.python.org/downloads/) please follow the below Installation Instructions 
+Once Downloaded from [https://www.python.org/downloads/](https://www.python.org/downloads/) please follow the below Installation Instructions
 
 **Windows Installation** = Download .exe file for 32 or 64 bit versions and install, After installation, to start use below command in command prompt
-_```C:\> python or python3```_
+_`C:\> python or python3`_
 
-**Linux or Unix Installation** = Download zipped source code<br>
-extract the *.tar.gz file and go inside the extracted directory
+**Linux or Unix Installation** = Download zipped source code
+extract the \*.tar.gz file and go inside the extracted directory
+
 ```
 ./configure
 make
-makeinstall```
-Then run the command in shell _```$ python or python3```_
+makeinstall
+```
 
-**For Macintosh** = Please follow instructions to install and start python** _[https://docs.python-guide.org/starting/install3/osx/](https://docs.python-guide.org/starting/install3/osx/)_
+Then run the command in shell _`$ python or python3`_
+
+**For Macintosh** = Please follow instructions to install and start python\*\* _[https://docs.python-guide.org/starting/install3/osx/](https://docs.python-guide.org/starting/install3/osx/)_
 
 **<u>Other ways of Python**</u>
 
 _Python Jupyter notebooks ==> Notebooks for Python which is easy to interatively communicate with code by visualizations_<br>_Ipython ==> Interactive Python with less rich HTML content_
-
 
 &nbsp;
