@@ -6,7 +6,7 @@
 
 &nbsp;
 
-![How to Execute python codes](img/Run1.png)
+![How to Execute python codes](../img/Run1.png)
 
 &nbsp;
 

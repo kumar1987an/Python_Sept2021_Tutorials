@@ -8,17 +8,17 @@
 
 ---
 
-### 1. [What is Python ?](/Basics/1_what_is.md)
+### 1. [What is Python ?](/Basics/Introduction/1_what_is.md)
 
-### 2. [Why Python ?](/Basics/2_why_is.md)
+### 2. [Why Python ?](/Basics/Introduction/2_why_is.md)
 
-### 3. [How Python and stuff works?](/Basics/3_how_is.md)
+### 3. [How Python and stuff works?](/Basics/Introduction/3_how_is.md)
 
-### 4. [Python foot prints ?](/Basics/4_footprints.md)
+### 4. [Python foot prints ?](/Basics/Introduction/4_footprints.md)
 
-### 5. [Where to download Python ?](/Basics/5_where_to.md)
+### 5. [Where to download Python ?](/Basics/Introduction/5_where_to.md)
 
-### 6. [How to Install Python ?](/Basics/6_install.md)
+### 6. [How to Install Python ?](/Basics/Introduction/6_install.md)
 
 
-### 7. [How to run Python Codes ?](/Basics/7_how_to_run.md)
+### 7. [How to run Python Codes ?](/Basics/Introduction/7_how_to_run.md)
