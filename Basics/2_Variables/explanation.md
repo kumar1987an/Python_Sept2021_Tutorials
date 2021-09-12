@@ -27,5 +27,6 @@
    - _age is private variable within the function scope
    - \__age__ ("double underscore"), this a name mangling used generally as class instances
 
+&nbsp;
 
 :rewind: [Back to Main Menu](https://github.com/kumar1987an/Python_Sept2021_Tutorials/blob/root/README.md)
