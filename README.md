@@ -30,3 +30,7 @@
 &nbsp;
 
 > ### ***Variables***
+
+&nbsp;
+
+#### :right-arrow: [All about Variables in Python](Basics/2_Variables/explanation.md)
