@@ -17,3 +17,7 @@
 :fast_forward: [Python Foot prints ?](/Basics/4_footprints.md)
 
 :fast_forward: [Where to download Python ?](/Basics/5_where_to.md)
+
+:fast_forward: [How to Install Python ?](/Basics/6_install.md)
+
+:fast_forward: [How to run Python Codes ?](/Basics/7_how_to_run.md)
