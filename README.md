@@ -10,7 +10,7 @@
 
 ### 1. [What is Python ?](/Basics/1_what_is.md)
 
-### 2. [Why is Python ?](/Basics/2_why_is.md)
+### 2. [Why Python ?](/Basics/2_why_is.md)
 
 ### 3. [How is Python ?](/Basics/3_how_is.md)
 
