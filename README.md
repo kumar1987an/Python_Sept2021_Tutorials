@@ -14,4 +14,6 @@
 
 :fast_forward: [How is Python ?](/Basics/3_how_is.md)
 
+:fast_forward: [Python Foot prints ?](/Basics/4_footprints.md)
+
 :fast_forward: [Where to download Python ?](/Basics/5_where_to.md)
