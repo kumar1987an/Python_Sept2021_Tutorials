@@ -11,7 +11,7 @@
 &nbsp;
 
 
-![Python Objects](https://excalidraw.com/#json=5649167703605248,EgwiyqocnqwzJbGnTSJ1UA)
+![Python Objects](../img/objects.png)
 
 &nbsp;
 
