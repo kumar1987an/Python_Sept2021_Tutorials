@@ -28,7 +28,7 @@ Then run the command in shell _`$ python or python3`_
 
 **For Macintosh** = Please follow instructions to install and start python\*\* _[https://docs.python-guide.org/starting/install3/osx/](https://docs.python-guide.org/starting/install3/osx/)_
 
-**<u>Other ways of Python**</u>
+**Other ways of Python**
 
 _Python Jupyter notebooks ==> Notebooks for Python which is easy to interatively communicate with code by visualizations_<br>_Ipython ==> Interactive Python with less rich HTML content_
 
