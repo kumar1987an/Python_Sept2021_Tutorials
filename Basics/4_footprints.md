@@ -6,13 +6,11 @@
 
 These are the frameworks that are packed with std libraries and modules which simplifies the REST APIs architecture by using protocols like HTTP, SMTP, XML, JSON etc
 
-
 > Game Development
 
 **Library like PyGame, Pyglet, PyKyra, PyOpenGL**
 
 Python is the foundation for popular games like Battlefield 2, Frets on Fire, World of Tanks, Disney's Toontown online, Vega Strike and Civilization-IV. Python is used as a scripting language by many game engines.
-
 
 > Scientific and Numeric Applications
 
@@ -53,3 +51,7 @@ Enterprise-Level Business Aplications
 
 Odoo, an all-in-one management software
 Tryton, a three-tier general purpose application platform
+
+&nbsp;
+
+:rewind: [Back to Main Menu](https://github.com/kumar1987an/Python_Sept2021_Tutorials/blob/root/README.md)

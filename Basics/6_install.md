@@ -33,3 +33,5 @@ Then run the command in shell _`$ python or python3`_
 _Python Jupyter notebooks ==> Notebooks for Python which is easy to interatively communicate with code by visualizations_<br>_Ipython ==> Interactive Python with less rich HTML content_
 
 &nbsp;
+
+:rewind: [Back to Main Menu](https://github.com/kumar1987an/Python_Sept2021_Tutorials/blob/root/README.md)
