@@ -8,10 +8,10 @@
 
 ---
 
-:fast_forward: [What is Python ?](/Basics/what_is.md)
+:fast_forward: [What is Python ?](/Basics/1_what_is.md)
 
-:fast_forward: [Why is Python ?](/Basics/why_is.md)
+:fast_forward: [Why is Python ?](/Basics/2_why_is.md)
 
-:fast_forward: [How is Python ?](/Basics/how_is.md)
+:fast_forward: [How is Python ?](/Basics/3_how_is.md)
 
-:fast_forward: [Where to download Python ?](/Basics/where_to.md)
+:fast_forward: [Where to download Python ?](/Basics/5_where_to.md)
