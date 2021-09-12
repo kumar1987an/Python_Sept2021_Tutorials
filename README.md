@@ -31,6 +31,5 @@
 
 > ### ***Variables***
 
-&nbsp;
 
 #### :battery: [All about Variables in Python](Basics/2_Variables/explanation.md)
