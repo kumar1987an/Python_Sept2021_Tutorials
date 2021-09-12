@@ -30,3 +30,9 @@
 > ### ***Variables***
 
 #### :battery: [All about Variables in Python](Basics/2_Variables/explanation.md)
+
+&nbsp;
+
+> ### ***Objects in Python***
+
+#### [a short tale](Basics/3_Objects_in_python/explanation.md)
