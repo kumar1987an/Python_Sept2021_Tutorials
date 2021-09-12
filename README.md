@@ -35,4 +35,4 @@
 
 > ### ***Objects in Python***
 
-#### [a short tale](Basics/3_Objects_in_python/explanation.md)
+#### :dolphin: [Short tale about objects](Basics/3_Objects_in_python/explanation.md)
