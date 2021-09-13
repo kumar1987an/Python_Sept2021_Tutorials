@@ -53,6 +53,6 @@
 - #### [Boolean](Basics/5_Data_Types/2_Boolean/explanation.md)
 - #### [Strings](Basics/5_Data_Types/3_Strings/explanation.md)
 - #### [List](Basics/5_Data_Types/4_Lists/explanation.md)
-- #### [Set](Basics/5_Data_Types/5_Sets/explanation,md)
+- #### [Set](Basics/5_Data_Types/5_Sets/explanation.md)
 - #### [Dictionary](Basics/5_Data_Types/6_Dictionaries/explanation.md)
 - #### [Tuple](Basics/5_Data_Types/7_Tuples/explanation.md)
