@@ -2,7 +2,7 @@
 
 &nbsp;
 
-#### ***In Python Indentation considered as one of the most important topics***
+#### ***In Python Indentation is considered as one of the most important topics***
 
 &nbsp;
 
