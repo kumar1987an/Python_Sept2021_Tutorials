@@ -41,3 +41,9 @@
 > ### ***Indentation in Python***
 
 #### :anchor: [How Indentation helps clean codes](Basics/4_Indentation/explanation.md)
+
+&nbsp;
+
+> ### ***DataTypes in Python***
+
+#### :anchor: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
