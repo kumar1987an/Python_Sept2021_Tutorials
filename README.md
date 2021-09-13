@@ -48,4 +48,7 @@
 
 #### :bicyclist: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
 
-#### 1. Numbers
+&nbsp;
+
+- [Numbers](Basics/5_Data_Types/1_Numbers/explanation.md)
+
