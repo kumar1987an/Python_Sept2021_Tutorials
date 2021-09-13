@@ -10,4 +10,4 @@
 
 &nbsp;
 
-:rewind: [Back to Data Types Menu](https://github.com/kumar1987an/Python_Sept2021_Tutorials/tree/root/Basics/5_Data_Types)
+:rewind: [Back to Main Menu](https://github.com/kumar1987an/Python_Sept2021_Tutorials/blob/root/README.md)
