@@ -47,3 +47,5 @@
 > ### ***DataTypes in Python***
 
 #### :bicyclist: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
+
+#### 1. Numbers
