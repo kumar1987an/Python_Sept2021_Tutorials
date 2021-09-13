@@ -46,4 +46,4 @@
 
 > ### ***DataTypes in Python***
 
-#### :anchor: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
+#### :bicyclist: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
