@@ -28,13 +28,13 @@
 
 > ### ***Variables***
 
-#### :battery: [All about Variables in Python](Basics/2_Variables/explanation.md)
+#### :anchor: [All about Variables in Python](Basics/2_Variables/explanation.md)
 
 &nbsp;
 
 > ### ***Objects in Python***
 
-#### :dolphin: [Short tale about objects](Basics/3_Objects_in_python/explanation.md)
+#### :anchor: [Short tale about objects](Basics/3_Objects_in_python/explanation.md)
 
 &nbsp;
 
@@ -53,7 +53,7 @@
 
 > ### ***DataTypes in Python***
 
-#### :bicyclist: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
+#### :anchor: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
 
 
 - #### [Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)
@@ -63,3 +63,9 @@
 - #### [Set](Basics/6_Data_Types/5_Sets/explanation.md)
 - #### [Dictionary](Basics/6_Data_Types/6_Dictionaries/explanation.md)
 - #### [Tuple](Basics/6_Data_Types/7_Tuples/explanation.md)
+
+&nbsp;
+> ### ***Operators in Python***
+
+#### :anchor: [How Namespace works](Basics/7_Operator_Precedence/explanation.md)
+
