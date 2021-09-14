@@ -67,5 +67,5 @@
 &nbsp;
 > ### ***Operators in Python***
 
-#### :anchor: [How Namespace works](Basics/7_Operator_Precedence/explanation.md)
+#### :anchor: [Operators a deep dive](Basics/7_Operator_Precedence/explanation.md)
 
