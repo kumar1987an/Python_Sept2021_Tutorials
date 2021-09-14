@@ -7,7 +7,7 @@
 
 &nbsp;
 
-*We will talk about variable scopes later to get deeper insight of namespaces*
+*We will talk about variable scopes later to get deeper insight on namespaces*
 
 &nbsp;
 
