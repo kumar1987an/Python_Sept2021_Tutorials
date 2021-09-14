@@ -53,7 +53,7 @@
 
 > ### ***DataTypes in Python***
 
-#### :anchor: [Basic Explanation on DataTypes](Basics/5_Data_Types/explanation.md)
+#### :anchor: [Basic Explanation on DataTypes](Basics/6_Data_Types/explanation.md)
 
 
 - #### [Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)
