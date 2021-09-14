@@ -69,3 +69,14 @@
 
 #### :anchor: [Operators a deep dive](Basics/7_Operator_Precedence/explanation.md)
 
+&nbsp;
+> ### ***Conditionals in Python***
+
+#### :anchor: [Conditions are heart of Coding](Basics/8_Conditionals/explanation.md)
+
+
+&nbsp;
+> ### ***Loops in Python***
+
+#### :anchor: [Loops drive continuous operation](Basics/9_Loops/explanation.md)
+
