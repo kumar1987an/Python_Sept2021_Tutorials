@@ -27,7 +27,33 @@
 |%|Modulus - remainder of the division of left operand by the right|
 |//|Floor division - division that results into whole number adjusted to the left in the number line|
 |**|Exponent - left operand raised to the power of right|
-|
+
+&nbsp;
+
+### Comparision operators
+
+> *used to compare values returns only true or false*
+
+|Operator|Meaning|
+|:-|:-:|
+|>|Greater than - True if left operand is greater than the right|
+|<|Less than - True if left operand is less than the right|
+|==|Equal to - True if both operands are equal|
+|!=|Not equal to - True if operands are not equal|
+|>=|Greater than or equal to - True if left operand is greater than or equal to the right|
+|<=|Less than or equal to - True if left operand is less than or equal to the right|
+
+&nbsp;
+### Logical operators
+
+> *logic gate operations*
+
+|Operator|	Meaning	|
+|:-|:-:|
+|and|True if both the operands are true|
+|or|True if either of the operands is true|
+|not|True if operand is false (complements the operand)|
+
 
 &nbsp;
 
