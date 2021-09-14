@@ -14,7 +14,7 @@
 
 &nbsp;
 
-### Arithmetic operators
+### Arithmetic Operators
 
 > *used to perform mathematical operations*
 
@@ -30,7 +30,7 @@
 
 &nbsp;
 
-### Comparision operators
+### Comparision Operators
 
 > *used to compare values returns only true or false*
 
@@ -44,7 +44,7 @@
 |<=|Less than or equal to - True if left operand is less than or equal to the right|
 
 &nbsp;
-### Logical operators
+### Logical Operators
 
 > *logic gate operations*
 
@@ -54,6 +54,62 @@
 |or|True if either of the operands is true|
 |not|True if operand is false (complements the operand)|
 
+&nbsp;
+### Bitwise Operators
+
+> *Bitwise operators act on operands as if they were strings of binary digits. They operate bit by bits*
+
+|Operator|	Meaning|
+|:-|:-:|
+|&|	Bitwise AND|
+|\||Bitwise OR|
+|~|Bitwise NOR|
+|^|Bitwise XOR|
+|>>|Bitwise right shift|
+|<<|Bitwise left shift|
+
+
+&nbsp;
+### Assignment Operators
+
+> *to assign values to variables*
+
+|Operator|
+|:-:|
+|=|      
+|+=|	       
+|-=|       
+|*=|      
+|/=|     
+|%=|    
+|//=|       
+|**=|      
+|&=| 
+|\|=|    
+|^=|
+|>>=|
+|<<=|   
+
+&nbsp;
+### Identity Operators
+
+> *used to check if two values (or variables) are located on the same part of the memory. Two variables that are equal does not imply that they are identical.*
+
+|Operator	|Meaning|
+|:-|:-:|
+|is|True if the operands are identical (refer to the same object)|
+|is not	|True if the operands are not identical (do not refer to the same object)|
+
+&nbsp;
+
+### Membership Operators
+
+> *used to test whether a value or variable is found in a sequence (string, list, tuple, set and dictionary).*
+
+|Operator|Meaning|
+|:-|:-:|
+|in	|True if value/variable is found in the sequence|
+|not in|True if value/variable is not found in the sequence|
 
 &nbsp;
 
