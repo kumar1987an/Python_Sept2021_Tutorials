@@ -42,8 +42,14 @@ s9 = "first tab \t second tab"
 # print()
 # print(s5, s6), print("Hi")
 
-x = 10
+# x = 10
 # print(x, end=","),
 # print(x),
 
-print(x, print(s5))
+# print(x, print(s5))
+
+s1 = "Buccati Cheron"
+print(s1)
+print(s1[0])
+print(s1.upper())
+print(s1)
