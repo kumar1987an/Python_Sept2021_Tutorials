@@ -80,3 +80,13 @@
 
 #### :anchor: [Loops drive continuous operation](Basics/9_Loops/explanation.md)
 
+&nbsp;
+
+## Intermediate
+
+&nbsp;
+
+> ### ***Comprehensions***
+
+
+#### :anchor: [Impressive Comprehensions](Interm/1_Comprehensions/explanation.md)
