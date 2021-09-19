@@ -90,3 +90,38 @@
 
 
 #### :anchor: [Impressive Comprehensions](Interm/1_Comprehensions/explanation.md)
+
+&nbsp;
+
+> ### ***Methods***
+
+
+#### :anchor: [More Insight on Data Types](Interm/2_DataTypes_Methods/explanation.md)
+
+&nbsp;
+
+> ### ***Lambda Functions***
+
+
+#### :anchor: [A battery for Python](Interm/3_lambda_functions/explanation.md)
+
+&nbsp;
+
+> ### ***Built-in Functions***
+
+
+#### :anchor: [Hands on Functions](Interm/4_Builtin_functions/explanation.md)
+
+&nbsp;
+
+> ### ***Functions***
+
+
+#### :anchor: [User Defined Functions](Interm/5_Functions/explanation.md)
+
+&nbsp;
+
+> ### ***Function Closures***
+
+
+#### :anchor: [Nested Functions a kind of ](Interm/6_Function_Closures/explanation.md)
