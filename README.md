@@ -86,49 +86,8 @@
 
 &nbsp;
 
-> ### ***Comprehensions***
-
-
-#### :anchor: [Impressive Comprehensions](Interm/1_Comprehensions/explanation.md)
-
-&nbsp;
-
-> ### ***Methods***
-
-
-#### :anchor: [More Insight on Data Types](Interm/2_DataTypes_Methods/explanation.md)
-
-&nbsp;
-
-> ### ***Lambda Functions***
-
-
-#### :anchor: [A battery for Python](Interm/3_lambda_functions/explanation.md)
-
-&nbsp;
-
-> ### ***Built-in Functions***
-
-
-#### :anchor: [Hands on Functions](Interm/4_Builtin_functions/explanation.md)
-
-&nbsp;
-
-> ### ***Functions***
-
-
-#### :anchor: [User Defined Functions](Interm/5_Functions/explanation.md)
-
-&nbsp;
-
-> ### ***Function Closures***
-
-
-#### :anchor: [Nested Functions a kind of ](Interm/6_Function_Closures/explanation.md)
-
-
-|||
+| <h3>Topics</h3> ||
 |:-|:-|
-| Comprehensions  <br>:anchor: [Impressive Comprehensions](Interm/1_Comprehensions/explanation.md)| Built-in Functions :anchor: [Hands on Functions](Interm/4_Builtin_functions/explanation.md)| 
-| Methods  :anchor: [More Insight on Data Types](Interm/2_DataTypes_Methods/explanation.md)	| Functions :anchor: [User Defined Functions](Interm/5_Functions/explanation.md)|
-|Lambda Functions :anchor: [A battery for Python](Interm/3_lambda_functions/explanation.md)| Function Closures :anchor: [Nested Functions a kind of ](Interm/6_Function_Closures/explanation.md) |
+| ***Comprehensions***  <br>:anchor: [Impressive Comprehensions](Interm/1_Comprehensions/explanation.md)| ***Built-in Functions*** <br>:anchor: [Hands on Functions](Interm/4_Builtin_functions/explanation.md)| 
+| ***Methods***  <br>:anchor: [More Insight on Data Types](Interm/2_DataTypes_Methods/explanation.md)	| ***Functions*** <br>:anchor: [User Defined Functions](Interm/5_Functions/explanation.md)|
+|***Lambda Functions*** <br>:anchor: [A battery for Python](Interm/3_lambda_functions/explanation.md)| ***Function Closures*** <br>:anchor: [Nested Functions a kind of ](Interm/6_Function_Closures/explanation.md) |
