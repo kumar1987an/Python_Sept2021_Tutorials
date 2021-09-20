@@ -80,3 +80,14 @@
 
 #### :anchor: [Loops drive continuous operation](Basics/9_Loops/explanation.md)
 
+&nbsp;
+
+## Intermediate
+
+&nbsp;
+
+| <h3>Topics</h3>                                                                                                                                                                                                       ||
+| :----------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------ |
+| ***Comprehensions***  <br>:anchor: [Impressive Comprehensions](Interm/1_Comprehensions/explanation.md) | ***Built-in Functions*** <br>:anchor: [Hands on Functions](Interm/4_Builtin_functions/explanation.md)         |
+| ***Methods***  <br>:anchor: [More Insight on Data Types](Interm/2_DataTypes_Methods/explanation.md)    | ***Functions*** <br>:anchor: [User Defined Functions](Interm/5_Functions/explanation.md)                      |
+| ***Lambda Functions*** <br>:anchor: [A battery for Python](Interm/3_lambda_functions/explanation.md)   | ***Function Closures*** <br>:anchor: [Nested Functions a kind of ](Interm/6_Function_Closures/explanation.md) |
