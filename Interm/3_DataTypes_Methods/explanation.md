@@ -1,4 +1,4 @@
-# Python Comprehensions
+# Python Methods on Data Types
 
 &nbsp;
 
