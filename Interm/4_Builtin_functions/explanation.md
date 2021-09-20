@@ -6,7 +6,7 @@
 
 &nbsp;
 
-![Python Builtin Functions](../../Interm/img/builtins.png)
+![Python Builtin Functions](../../Interm/img/builtins.PNG)
 
 &nbsp;
 
