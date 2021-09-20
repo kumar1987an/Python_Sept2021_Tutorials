@@ -88,9 +88,10 @@
 
 |**Topics**|**Links**|
 |:-|:-|
-| ***Comprehensions***   |:anchor: [Impressive Comprehensions](Interm/1_Comprehensions/explanation.md)| 
+|***Indexing and Slicing*** |:anchor: [get a Chocolate and Cake Slicing](Interm/1_Indexing_and_Slicing/explanation.md)|
+|***Comprehensions***|:anchor: [Impressive Comprehensions](Interm/2_Comprehensions/explanation.md)| 
+|***Methods***|:anchor: [More Insight on Data Types](Interm/3_DataTypes_Methods/explanation.md)| 
 |***Built-in Functions***|:anchor: [Hands on Functions](Interm/4_Builtin_functions/explanation.md)|
-| ***Methods***|:anchor: [More Insight on Data Types](Interm/2_DataTypes_Methods/explanation.md)| 
 |***Functions***|:anchor: [User Defined Functions](Interm/5_Functions/explanation.md)|
-| ***Lambda Functions***|:anchor: [A battery for Python](Interm/3_lambda_functions/explanation.md)| 
-|***Function Closures***|:anchor: [Nested Functions a kind of ](Interm/6_Function_Closures/explanation.md) |
+|***Function Closures***|:anchor: [Nested Functions a kind of](Interm/6_Function_Closures/explanation.md) |
+|***Lambda Functions***|:anchor: [A battery for Python](Interm/7_lambda_functions/explanation.md)| 
