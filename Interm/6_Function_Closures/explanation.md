@@ -7,9 +7,9 @@
 ### This allows us to do
 
 ```
-- Encapsulation of Code
-- Closures
-- Decorators
+1. Encapsulation of Code
+2. Closures
+3. Decorators
 ```
 
 - ### Python supports several different coding paradigms, including functional programming
