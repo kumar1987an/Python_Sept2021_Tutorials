@@ -20,17 +20,9 @@ print(L1)
 # Set comprehension
 print()
 set1 = {i for i in range(1000) if i % 10 == 0}
-set2 = {i for i in range(1000) if i % 10 == 0}
 print(set1)
-print(set2)
 
 # # Dictionary comprehension
 print()
 d1 = {key: value for key, value in zip("a b c".split(), [100, 200, 300])}
 print(d1)
-
-for i, j in zip([1, 3, 3], [9, 8, 7]):
-    print(f"{i}, {j}")
-
-
-print({1, 100, 200, 1873846349, 87648798, 37687984, 7648749834})
