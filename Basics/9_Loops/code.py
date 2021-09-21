@@ -1,72 +1,72 @@
 # Range For Loop
 
 # print(help(range))
-# print(range(0, 10, 2))
+print(range(0, 10, 2))
 
-# # Positive for loop
-# for element in range(0, 10):  # 0 - Default Start value, 1 - Default Step value
-#     if element % 3 == 0:
-#         print(element)
+# Positive for loop
+for element in range(0, 10):  # 0 - Default Start value, 1 - Default Step value
+    # if element % 3 == 0:
+    print(element)
 
-# print()
+print()
 
-# # Negative for loop
-# for element in range(-1, -10, -1):  # 0 - Default Start value, 1 - Default Step value
-#     print(element)
+# Negative for loop
+for element in range(-1, -10, -1):  # 0 - Default Start value, 1 - Default Step value
+    print(element)
 
-# print()
+print()
 
-# # With step value
-# for element in range(1, 11, 2):  # 0 - Default Start value, 1 - Default Step value
-#     print(element)
+# With step value
+for element in range(1, 11, 2):  # 0 - Default Start value, 1 - Default Step value
+    print(element)
 
-# print()
-# # Performing an operation 10 times
-# for _ in range(0, 10):
-#     print("Hello World")
+print()
+# Performing an operation 10 times
+for _ in range(0, 10):
+    print("Hello World")
 
-# print()
-# # Iterating over element in an List iterable
-# L1 = ["apple", "orange", "jackfruit", "pumpkin"]
-# for element in L1:
-#     if element == "jackfruit":
-#         break
-#     print(element)
+print()
+# Iterating over element in an List iterable
+L1 = ["apple", "orange", "jackfruit", "pumpkin"]
+for element in L1:
+    if element == "jackfruit":
+        break
+    print(element)
 
-# print()
+print()
 
-# # tuple iterable unpacking with For loop
-# t1 = ("apple", "orange", "jackfruit", "pumpkin")
-# for element in t1:
-#     print(element)
+# tuple iterable unpacking with For loop
+t1 = ("apple", "orange", "jackfruit", "pumpkin")
+for element in t1:
+    print(element)
 
 
-# print()
+print()
 
-# # dictionary iterable with For loop
-# d1 = dict(a=100, b=200, c=300)
-# for key, value in d1.items():
-#     print(key)
-#     print(value)
+# dictionary iterable with For loop
+d1 = dict(a=100, b=200, c=300)
+for key, value in d1.items():
+    print(key)
+    print(value)
 
-# print()
+print()
 
-# # Set iterable with for loop
-# s1 = {1, 2, 3, 4, 4, 4, 4, 5}
-# for element in s1:
-#     print(element)
+# Set iterable with for loop
+s1 = {1, 2, 3, 4, 4, 4, 4, 5}
+for element in s1:
+    print(element)
 
-# print()
+print()
 
-# # Strings with for loop
-# string1 = "apple"
-# for char in string1:
-#     print(char)
+# Strings with for loop
+string1 = "apple"
+for char in string1:
+    print(char)
 
-# print()
+print()
 
-# L2 = "apple orange jackfruit grapes".split()
-# print(L2)
+L2 = "apple orange jackfruit grapes".split()
+print(L2)
 
 # While Loops
 
