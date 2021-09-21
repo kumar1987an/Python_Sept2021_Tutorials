@@ -2,28 +2,33 @@
 
 &nbsp;
 
-### In Python we can define functions inside of other functions
+### In Python we can define functions inside of other functions,
 
 ### This allows us to do
 
-- ***Encapsulation of Code***
-- ***Closures***
-- ***Decorators***
-  
-### Python supports several different coding paradigms, including functional programming
+```
+- Encapsulation of Code
+- Closures
+- Decorators
+```
 
-### Functional Programming frequently uses closures
+- ### Python supports several different coding paradigms, including functional programming
 
-### Closures allow the creation of Decorators are a handy way of doing pre- and post-conditions on a wrapped functions
+- ### Functional Programming frequently uses closures
 
-## In this course we are learn about
+- ### Closures allow the creation of Decorators are a handy way of doing pre- and post-conditions on a wrapped functions
 
-1. ***Defining inner functions***
-2. ***Using inner functions as helper functions***
-3. ***Building function closures***
-4. ***Using captured variables in a closure***
-5. ***Captured data functions in a closure***
-6. ***Decorators - We discuss as a seperate topic later***
+&nbsp;
+### In this course we are learn about
+
+```
+1. Defining inner functions
+2. Using inner functions as helper functions
+3. Building function closures
+4. Using captured variables in a closure
+5. Captured data functions in a closure
+6. Decorators - We discuss as a seperate topic later
+```
 
 &nbsp;
 
