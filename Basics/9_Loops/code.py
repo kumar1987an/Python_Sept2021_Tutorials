@@ -84,3 +84,25 @@ while a:
     print(a.pop(-1))
 
 print("==================")
+
+# while loop with break statement
+n = 5
+while n > 0:
+    if n == 2:
+        break
+    print(n)
+    n = n - 1
+else:
+    print("loop ended")
+
+# while loop with break and continue statement
+
+print("==================")
+n = 10
+while n > 0:
+    n = n - 1
+    if n == 5:
+        continue
+    if n == 2:
+        break
+    print(n)
