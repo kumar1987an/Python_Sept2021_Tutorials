@@ -6,9 +6,9 @@
 
 ### This allows us to do
 
-- Encapsulation of Code
-- Closures
-- Decorators
+- ***Encapsulation of Code***
+- ***Closures***
+- ***Decorators***
   
 ### Python supports several different coding paradigms, including functional programming
 
@@ -18,12 +18,12 @@
 
 ## In this course we are learn about
 
-1. Defining inner functions
-2. Using inner functions as helper functions
-3. Building function closures
-4. Using captured variables in a closure
-5. Captured data functions in a closure
-6. Decorators - We discuss as a seperate topic later
+1. ***Defining inner functions***
+2. ***Using inner functions as helper functions***
+3. ***Building function closures***
+4. ***Using captured variables in a closure***
+5. ***Captured data functions in a closure***
+6. ***Decorators - We discuss as a seperate topic later***
 
 &nbsp;
 
