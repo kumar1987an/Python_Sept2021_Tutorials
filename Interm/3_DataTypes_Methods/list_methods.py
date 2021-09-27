@@ -1,4 +1,5 @@
 ### List Datatype Methods
+
 L1 = [
     1,
     2.0,
