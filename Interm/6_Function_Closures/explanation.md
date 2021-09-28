@@ -1,7 +1,7 @@
-# Python Closure Functions
+# Python Inner and Closure Functions
 
 &nbsp;
-### In this course we are learn about
+### In this course we learn about
 
 ```
 1. Defining inner functions
