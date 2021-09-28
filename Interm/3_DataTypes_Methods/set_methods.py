@@ -14,19 +14,19 @@ print()
 print(len(d))
 print()
 print(len(set()))
-print(set([1, 2, 2, 3, 4, 5]))
-print(set({"a": 1, "b": 2}))
+print({[1, 2, 2, 3, 4, 5]})
+print({{"a": 1, "b": 2}})
 print(set(tuple((1, 2, 3, 4))))
 print(type({}))
 x = {'foo', 'bar', 'baz'}
 for element in x:
     print(element)
-print(set(("apple", "apple")))
+print({("apple", "apple")})
 print(set("apple"))
 # print(x[-1])
 print()
-print(f"{a.union(b) = }") # union of
-print(f"{a.union(b, c, d) = }") # union of
+print(f"{a.union(b) = }")  # union of
+print(f"{a.union(b, c, d) = }")  # union of
 print(f"{a.union([8, 9, 10]) = }")
 print(f"{a.union(dict(apple='red')) = }")
 print(f"same of a.union(b) {a | b = }")
@@ -39,8 +39,8 @@ print(x1.union(('baz', 'qux', 'quux')))
 # print(x1 | ('baz', 'qux', 'quux'))
 print()
 
-print(f"{a.intersection(b) = }") # intersection of
-print(f"{a.intersection(b, c, d) = }") # intersection of
+print(f"{a.intersection(b) = }")  # intersection of
+print(f"{a.intersection(b, c, d) = }")  # intersection of
 print(f"same of a.intersection(b) {a & b = }")
 print(f"same of a.intersection(b, c, d) {a & b & c & d = }")
 
