@@ -12,6 +12,7 @@ LISP or the ML family of languages, Haskell, OCaml, and F#, use lambdas as
 a core concept.
 
 
+#### Basic Syntax 
 ```python
 lambda x: x
 ```
