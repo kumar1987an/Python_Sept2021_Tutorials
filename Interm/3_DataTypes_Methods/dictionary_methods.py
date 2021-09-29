@@ -62,3 +62,6 @@ print(d4)
 
 d1.update(dict(orange="orange"))
 print(f"{d1 = }")
+
+d3 = {"name": "xyz"}
+print({**d1, **d2, **d3})
