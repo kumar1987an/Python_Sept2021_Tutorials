@@ -110,5 +110,5 @@
 |***Classes***|:anchor: [Data Blue Print](Advanced/3_classes/explanation.md)| 
 |***Modules & Packages***|:anchor: [Extra Hands to Python](Advanced/4_modules_packages/explanation.md)|
 |***Virtualization***|:anchor: [Territorial Control](Advanced/5_virtualization/explanation.md)|
-|***Few Modules***|:anchor: [Let's Check in](Advanced/6_modulesn/explanation.md)| 
+|***Few Modules***|:anchor: [Let's Check in](Advanced/6_modules/explanation.md)| 
 
