@@ -94,3 +94,21 @@
 |***Functions***|:anchor: [User Defined Functions](Interm/5_Functions/explanation.md)|
 |***Function Closures***|:anchor: [Nested Functions a kind of](Interm/6_Function_Closures/explanation.md) |
 |***Lambda Functions***|:anchor: [A battery for Python](Interm/7_lambda_functions/explanation.md)| 
+
+
+&nbsp;
+
+## Advanced
+
+&nbsp;
+
+
+|**Topics**|**Links**|
+|:-|:-|
+|***Decorators*** |:anchor: [That's Awesome Decoration](Advanced/1_decorators/explanation.md)|
+|***Generators***|:anchor: [High Performance Delivered](Advanced/2_generators/explanation.md)| 
+|***Classes***|:anchor: [Data Blue Print](Advanced/3_classes/explanation.md)| 
+|***Modules & Packages***|:anchor: [Extra Hands to Python](Advanced/4_modules_packages/explanation.md)|
+|***Virtualization***|:anchor: [Territorial Control](Advanced/5_virtualization/explanation.md)|
+|***Few Modules***|:anchor: [Let's Check in](Advanced/6_modulesn/explanation.md)| 
+
