@@ -26,34 +26,14 @@
 
 &nbsp;
 
-> ### ***Variables***
+|**Topics**|**Links**|
+|:-|:-|
+|***Variables***|:anchor: [All about Variables in Python](Basics/2_Variables/explanation.md)|
+|***Objects in Python***|:anchor: [Short tale about objects](Basics/3_Objects_in_python/explanation.md)|
+|***Indentation in Python***|:anchor: [How Indentation helps clean codes](Basics/4_Indentation/explanation.md)|
+|***Namespaces in Python***|:anchor: [How Namespace works](Basics/5_Name_Spaces/explanation.md)|
+|***DataTypes in Python***| :anchor: [Basic Explanation on DataTypes](Basics/6_Data_Types/explanation.md)|
 
-#### :anchor: [All about Variables in Python](Basics/2_Variables/explanation.md)
-
-&nbsp;
-
-> ### ***Objects in Python***
-
-#### :anchor: [Short tale about objects](Basics/3_Objects_in_python/explanation.md)
-
-&nbsp;
-
-> ### ***Indentation in Python***
-
-#### :anchor: [How Indentation helps clean codes](Basics/4_Indentation/explanation.md)
-
-&nbsp;
-
-
-> ### ***Namespaces in Python***
-
-#### :anchor: [How Namespace works](Basics/5_Name_Spaces/explanation.md)
-
-&nbsp;
-
-> ### ***DataTypes in Python***
-
-#### :anchor: [Basic Explanation on DataTypes](Basics/6_Data_Types/explanation.md)
 
 
 - #### [Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)
