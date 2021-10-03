@@ -33,7 +33,7 @@
 |***Indentation in Python***|:anchor: [How Indentation helps clean codes](Basics/4_Indentation/explanation.md)|
 |***Namespaces in Python***|:anchor: [How Namespace works](Basics/5_Name_Spaces/explanation.md)|
 |***DataTypes in Python***| :anchor: [Basic Explanation on DataTypes](Basics/6_Data_Types/explanation.md)|
-| 1234567890 |[Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)|
+| 546, 67.34, 78-67j, -2 |[Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)|
 | True or False |[Boolean](Basics/6_Data_Types/2_Boolean/explanation.md)|
 | "strings" |[Strings](Basics/6_Data_Types/3_Strings/explanation.md)|
 | [1, 2, 3] |[List](Basics/6_Data_Types/4_Lists/explanation.md)|
