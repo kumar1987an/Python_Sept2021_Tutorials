@@ -33,16 +33,13 @@
 |***Indentation in Python***|:anchor: [How Indentation helps clean codes](Basics/4_Indentation/explanation.md)|
 |***Namespaces in Python***|:anchor: [How Namespace works](Basics/5_Name_Spaces/explanation.md)|
 |***DataTypes in Python***| :anchor: [Basic Explanation on DataTypes](Basics/6_Data_Types/explanation.md)|
-
-
-
-- #### [Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)
-- #### [Boolean](Basics/6_Data_Types/2_Boolean/explanation.md)
-- #### [Strings](Basics/6_Data_Types/3_Strings/explanation.md)
-- #### [List](Basics/6_Data_Types/4_Lists/explanation.md)
-- #### [Set](Basics/6_Data_Types/5_Sets/explanation.md)
-- #### [Dictionary](Basics/6_Data_Types/6_Dictionaries/explanation.md)
-- #### [Tuple](Basics/6_Data_Types/7_Tuples/explanation.md)
+| - |[Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)|
+| - |[Boolean](Basics/6_Data_Types/2_Boolean/explanation.md)|
+| - |[Strings](Basics/6_Data_Types/3_Strings/explanation.md)|
+| - |[List](Basics/6_Data_Types/4_Lists/explanation.md)|
+| - |[Set](Basics/6_Data_Types/5_Sets/explanation.md)|
+| - |[Dictionary](Basics/6_Data_Types/6_Dictionaries/explanation.md)|
+| - |[Tuple](Basics/6_Data_Types/7_Tuples/explanation.md)|
 
 &nbsp;
 > ### ***Operators in Python***
