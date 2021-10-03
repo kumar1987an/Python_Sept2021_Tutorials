@@ -40,22 +40,9 @@
 | {1, 2, 3} |[Set](Basics/6_Data_Types/5_Sets/explanation.md)|
 | {"Name": "Me"} |[Dictionary](Basics/6_Data_Types/6_Dictionaries/explanation.md)|
 | (1, 2, 3) |[Tuple](Basics/6_Data_Types/7_Tuples/explanation.md)|
-
-&nbsp;
-> ### ***Operators in Python***
-
-#### :anchor: [Operators a deep dive](Basics/7_Operator_Precedence/explanation.md)
-
-&nbsp;
-> ### ***Conditionals in Python***
-
-#### :anchor: [Conditions are heart of Coding](Basics/8_Conditionals/explanation.md)
-
-
-&nbsp;
-> ### ***Loops in Python***
-
-#### :anchor: [Loops drive continuous operation](Basics/9_Loops/explanation.md)
+|***Operators in Python***|:anchor: [Operators a deep dive](Basics/7_Operator_Precedence/explanation.md)|
+|***Conditionals in Python***|:anchor: [Conditions are heart of Coding](Basics/8_Conditionals/explanation.md)|
+|***Loops in Python***|:anchor: [Loops drive continuous operation](Basics/9_Loops/explanation.md)|
 
 &nbsp;
 
