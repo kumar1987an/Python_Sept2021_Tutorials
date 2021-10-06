@@ -41,4 +41,4 @@ print(tuple_data.count)
 
 print(name.__class__.__base__)
 print(object)
-print(help(object))
+# print(help(object))
