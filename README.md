@@ -26,59 +26,23 @@
 
 &nbsp;
 
-> ### ***Variables***
-
-#### :anchor: [All about Variables in Python](Basics/2_Variables/explanation.md)
-
-&nbsp;
-
-> ### ***Objects in Python***
-
-#### :anchor: [Short tale about objects](Basics/3_Objects_in_python/explanation.md)
-
-&nbsp;
-
-> ### ***Indentation in Python***
-
-#### :anchor: [How Indentation helps clean codes](Basics/4_Indentation/explanation.md)
-
-&nbsp;
-
-
-> ### ***Namespaces in Python***
-
-#### :anchor: [How Namespace works](Basics/5_Name_Spaces/explanation.md)
-
-&nbsp;
-
-> ### ***DataTypes in Python***
-
-#### :anchor: [Basic Explanation on DataTypes](Basics/6_Data_Types/explanation.md)
-
-
-- #### [Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)
-- #### [Boolean](Basics/6_Data_Types/2_Boolean/explanation.md)
-- #### [Strings](Basics/6_Data_Types/3_Strings/explanation.md)
-- #### [List](Basics/6_Data_Types/4_Lists/explanation.md)
-- #### [Set](Basics/6_Data_Types/5_Sets/explanation.md)
-- #### [Dictionary](Basics/6_Data_Types/6_Dictionaries/explanation.md)
-- #### [Tuple](Basics/6_Data_Types/7_Tuples/explanation.md)
-
-&nbsp;
-> ### ***Operators in Python***
-
-#### :anchor: [Operators a deep dive](Basics/7_Operator_Precedence/explanation.md)
-
-&nbsp;
-> ### ***Conditionals in Python***
-
-#### :anchor: [Conditions are heart of Coding](Basics/8_Conditionals/explanation.md)
-
-
-&nbsp;
-> ### ***Loops in Python***
-
-#### :anchor: [Loops drive continuous operation](Basics/9_Loops/explanation.md)
+|**Topics**|**Links**|
+|:-|:-|
+|***Variables***|:anchor: [All about Variables in Python](Basics/2_Variables/explanation.md)|
+|***Objects in Python***|:anchor: [Short tale about objects](Basics/3_Objects_in_python/explanation.md)|
+|***Indentation in Python***|:anchor: [How Indentation helps clean codes](Basics/4_Indentation/explanation.md)|
+|***Namespaces in Python***|:anchor: [How Namespace works](Basics/5_Name_Spaces/explanation.md)|
+|***DataTypes in Python***| :anchor: [Basic Explanation on DataTypes](Basics/6_Data_Types/explanation.md)|
+| 546, 67.34, 78-67j, -2 |[- Numbers](Basics/6_Data_Types/1_Numbers/explanation.md)|
+| True or False |[- Boolean](Basics/6_Data_Types/2_Boolean/explanation.md)|
+| "strings" |[- Strings](Basics/6_Data_Types/3_Strings/explanation.md)|
+| [1, 2, 3] |[- List](Basics/6_Data_Types/4_Lists/explanation.md)|
+| {1, 2, 3} |[- Set](Basics/6_Data_Types/5_Sets/explanation.md)|
+| {"Name": "Me"} |[- Dictionary](Basics/6_Data_Types/6_Dictionaries/explanation.md)|
+| (1, 2, 3) |[- Tuple](Basics/6_Data_Types/7_Tuples/explanation.md)|
+|***Operators in Python***|:anchor: [Operators a deep dive](Basics/7_Operator_Precedence/explanation.md)|
+|***Conditionals in Python***|:anchor: [Conditions are heart of Coding](Basics/8_Conditionals/explanation.md)|
+|***Loops in Python***|:anchor: [Loops drive continuous operation](Basics/9_Loops/explanation.md)|
 
 &nbsp;
 
@@ -94,3 +58,21 @@
 |***Functions***|:anchor: [User Defined Functions](Interm/5_Functions/explanation.md)|
 |***Function Closures***|:anchor: [Nested Functions a kind of](Interm/6_Function_Closures/explanation.md) |
 |***Lambda Functions***|:anchor: [A battery for Python](Interm/7_lambda_functions/explanation.md)| 
+
+
+&nbsp;
+
+## Advanced
+
+&nbsp;
+
+
+|**Topics**|**Links**|
+|:-|:-|
+|***Decorators*** |:anchor: [That's Awesome Decoration](Advanced/1_decorators/explanation.md)|
+|***Generators***|:anchor: [High Performance Delivered](Advanced/2_generators/explanation.md)| 
+|***Classes***|:anchor: [Data Blue Print](Advanced/3_classes/explanation.md)| 
+|***Modules & Packages***|:anchor: [Extra Hands to Python](Advanced/4_modules_packages/explanation.md)|
+|***Virtualization***|:anchor: [Territorial Control](Advanced/5_virtualization/explanation.md)|
+|***Few Modules***|:anchor: [Let's Check in](Advanced/6_modules/explanation.md)| 
+
