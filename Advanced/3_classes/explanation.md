@@ -2,7 +2,7 @@
 
 &nbsp;
 
-### A class is a blueprint for how something should be defined.
+### A class is a blueprint to play around with the objects and methods to define the data and its construct.
 
 &nbsp;
 
