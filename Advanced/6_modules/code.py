@@ -1,11 +1,13 @@
 # dataclasses Module
 
-
+from collections import namedtuple
 from dataclasses import dataclass
 
 
 @dataclass
 class DataClassCard:
+    """DataClassCard"""
+
     rank: str
     suit: str
 
@@ -18,6 +20,8 @@ print(queen_of_hearts == DataClassCard("Q", "Hearts"))
 
 
 class NormalDataClassCard:
+    """NormalDataClassCard"""
+
     def __init__(self, rank, suit) -> None:
         self.rank = rank
         self.suit = suit
@@ -29,8 +33,6 @@ print(normal_queen_of_hearts == NormalDataClassCard("Q", "Hearts"))
 
 
 # Collections Module
-
-from collections import namedtuple
 
 Person = namedtuple("Person", ["age", "heigt", "name"])
 dave = Person(20, 178, "Dave")
