@@ -6,21 +6,21 @@
 
 &nbsp;
 
-## :white_check_mark: Interpreter based language
+### -> Interpreter based language
 
-## :white_check_mark: Human understandable syntax
+### -> Human understandable syntax
 
-## :white_check_mark: Object Oriented Programming
+### -> Object Oriented Programming
 
-## :white_check_mark: Functional paradigm
+### -> Functional paradigm
 
-## :white_check_mark: Guido Van Rossum
+### -> Guido Van Rossum
 
-## :white_check_mark: 1981
+### -> 1981
 
-## :white_check_mark: Based on Lisp, Haskel and ABC language
+### -> Based on Lisp, Haskel and ABC language
 
-## :white_check_mark: Implemented in C as Cpython
+### -> Implemented in C as Cpython
 
 &nbsp;
 
