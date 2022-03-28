@@ -1,9 +1,6 @@
 # Inner Function
 
 
-from math import perm
-
-
 def outer_function():
     message1 = "Hi"
     message2 = "Hello"
